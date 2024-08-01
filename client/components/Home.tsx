@@ -1,8 +1,10 @@
+import { Link } from 'react-router-dom'
+
 function Home() {
   return (
     <div>
-      <h1>Home</h1>
-      <p>React development has begun!</p>
+      <h2>Click start to begin!</h2>
+      <Link to="/game">Start</Link>
     </div>
   )
 }
