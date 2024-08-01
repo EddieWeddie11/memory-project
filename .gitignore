@@ -1,4 +1,5 @@
 node_modules
+packagelock.json
 static
 npm-debug.log
 bundle.*
