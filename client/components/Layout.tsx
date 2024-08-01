@@ -3,7 +3,7 @@ import { Outlet } from 'react-router-dom'
 function Layout() {
   return (
     <div>
-      <nav>Nav</nav>
+      <h1>Matching Memory Game</h1>
       <Outlet />
     </div>
   )
